@@ -85,12 +85,12 @@ body {
     opacity: 0px;
     color: #fff ;
 
-font-family: Graphik;
-font-size: 80px;
-font-weight: 500;
-line-height: 88px;
-letter-spacing: 0.20000000298023224px;
-text-align: center;
+    font-family: Graphik;
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 88px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
 
 
 }
@@ -106,12 +106,12 @@ text-align: center;
     color: #fff ;
 
    
-font-family: Graphik;
-font-size: 20px;
-font-weight: 400;
-line-height: 30px;
-letter-spacing: 0.20000000298023224px;
-text-align: center;
+    font-family: Graphik;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
 
 }
 
@@ -152,10 +152,55 @@ text-align: center;
 .mainpick{
     background-color: #000;
 }
+.features{
+    width: Fill (1,579px)px;
+    height: Hug (1,112px)px;
+    padding: 62px 50px 62px 50px;
+    gap: 10px;
+    opacity: 0px;
+
+}
 .content{
     width: Fill (1,479px)px;
     height: Hug (988px)px;
     gap: 80px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 80px;
+
+
+
+}
+.heading{
+    width: Hug (602px)px;
+    height: Hug (149px)px;
+    gap: 27px;
+    opacity: 0px;
+    padding-left: 438.5px;
+    padding-right: 438.5px;
+    padding-bottom: 839px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.secondheadline{
+    width: Hug (251px)px;
+    height: Hug (62px)px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+.submain{
+    width: Hug (602px)px;
+    height: Hug (60px)px;
+    padding: 0px 10px 0px 10px;
+    gap: 10px;
     opacity: 0px;
 
 }
