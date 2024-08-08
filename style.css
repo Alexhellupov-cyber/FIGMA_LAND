@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.uppertext {
+    text-align: center;
+    padding: 20px;
+    width: Fill (1,579px)px;
+    height: Hug (1,675px)px;
+    gap: 35px;
+    opacity: 0px;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.mainmenu {
+    flex-grow: 1;
+}
+
+.uppermenu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.uppermenu li {
+    margin: 0 15px;
+}
+
+.uppermenu a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.upperbutton {
+    margin-left: auto;
+}
+
+.loginbutton {
+    background-color: #4caf4f00;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.textcenter {
+    width: Fill (1,579px)px;
+    height: Hug (393px)px;
+    padding: 50px 0px 50px 0px;
+    gap: 17px;
+    opacity: 0px;
+    background-color: #000;
+
+}
+
+.headerline {
+    font-size: 36px;
+    margin: 10px 0;
+    width: Hug (729px)px;
+    height: Hug (196px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 10px;
+    opacity: 0px;
+    color: #fff ;
+
+font-family: Graphik;
+font-size: 80px;
+font-weight: 500;
+line-height: 88px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+
+
+}
+
+.subheader {
+    font-size: 24px;
+    margin: 10px 0;
+    width: Hug (602px)px;
+    height: Hug (80px)px;
+    padding: 10px 0px 0px 0px;
+    gap: 10px;
+    opacity: 0px;
+    color: #fff ;
+
+   
+font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+
+}
+
+.twobutton {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #000;
+}
+
+.button1 {
+    background: #4452FE;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.button2{
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-color: #ffffff;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #000000;
+    box-shadow: 0px 4px 31px 0px #00000026;
+
+    
+}
+
+.grad{
+    background-color: #000;
+    background: #000;
+
+}
+.mainpick{
+    background-color: #000;
+}
+.content{
+    width: Fill (1,479px)px;
+    height: Hug (988px)px;
+    gap: 80px;
+    opacity: 0px;
+
+}
